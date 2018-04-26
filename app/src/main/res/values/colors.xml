@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="colorPrimary">#8616ba</color>
+<color name="colorPrimaryDark">#6c0ca9</color>
+<color name="colorAccent">#FF4081</color>
+<!-- Background color for app -->
+<color name="tan_background">#FFF7DA</color>
+<color name="backgroundColor">#fffeb5</color>
+<color name="lightPurple">#aa00ff</color>
+<color name="primaryTextColor">#8b009b</color>
+<color name="secondaryTextColor">#92449b</color>
+<color name="colorOfToolbar"> #9823ff</color>
+<color name="white">#ffffff</color>
+</resources>
+
+

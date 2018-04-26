@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Height of each list item -->
+    <dimen name="list_item_height">100dp</dimen>
+    <dimen name="padding10">10dp</dimen>
+    <dimen name="textSize25">25sp</dimen>
+    <dimen name="textSize18">18sp</dimen>
+    <dimen name="textSize15">15sp</dimen>
+    <dimen name="textSize13">13sp</dimen>
+    <dimen name="padding1">1dp</dimen>
+    <dimen name="margin1">1dp</dimen>
+    <dimen name="margin5">5dp</dimen>
+    <dimen name="layoutHeight">44dp</dimen>
+</resources>

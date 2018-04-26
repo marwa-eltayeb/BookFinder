@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Book Finder</string>
+    <string name="keyword">Enter a Name</string>
+    <string name="search">Search</string>
+    <string name="description">Description</string>
+
+    <string name="noDescription">No Available Description</string>
+
+    <!-- Text to display in the list when there are no conditions appeared [CHAR LIMIT=NONE] -->
+    <string name="no_books">No books found.</string>
+
+    <!-- Error message when there is no internet connectivity [CHAR LIMIT=NONE] -->
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="magnify_the_cover_of_the_book">Magnify the cover of the book</string>
+</resources>
