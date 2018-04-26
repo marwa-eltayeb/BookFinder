@@ -62,11 +62,9 @@ public class MainActivity extends AppCompatActivity implements LoaderManager.Loa
             myUrl = savedInstanceState.getString(SEARCH_QUERY_URL);
         }
 
-
         adapter = new BookAdapter(this, new ArrayList<Book>());
 
         bookListView.setAdapter(adapter);
-
 
         bookListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
